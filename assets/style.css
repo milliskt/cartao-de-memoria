@@ -1,0 +1,12 @@
+body {
+    background-color:blueviolet;
+}
+
+footer {
+    background-color: black;
+    color:blueviolet
+    position:fixed;
+    bottom: 0;
+
+}
+
